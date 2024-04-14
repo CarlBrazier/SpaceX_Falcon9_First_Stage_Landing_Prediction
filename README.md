@@ -12,7 +12,7 @@ In this project, I predicted if the Falcon 9 first stage will land successfully.
 - Data Analysis: Conducting exploratory analysis to identify trends in launch data.
 - Data Exporting: Saving the cleaned data to a CSV file for further use.
 
-### [SpaceX Data Wranlging](SpaceX_Falcon9_First_Stage_Landing_Prediction/labs-jupyter-spacex-Data-wrangling)
+### [SpaceX Data Wrangling](SpaceX_Falcon9_First_Stage_Landing_Prediction/labs-jupyter-spacex-Data-wrangling)
 - Exploring Launch Sites: Analyzing the number of launches from different SpaceX launch sites.
 - Examining Orbit Types: Understanding various orbit types targeted by these launches.
 - Data Cleaning: Preparing the data by handling missing values and removing unneeded columns.
