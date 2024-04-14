@@ -51,5 +51,11 @@ In this project, I predicted if the Falcon 9 first stage would land successfully
 - Exploratory Data Analysis (EDA):
   - Geographical Analysis: Focused on analyzing the strategic positioning of launch sites in relation to their geographical settings.
   - Visual Insights: Offered insights into how the location of a launch site might influence launch success rates and logistical considerations, using the visual medium of maps for better understanding.
+ 
+### [Predicting Launch Success - ML](https://github.com/CarlBrazier/SpaceX_Falcon9_First_Stage_Landing_Prediction/blob/main/SpaceX_Machine_Learning_Prediction_Part_5.ipynb) 
+- Models Considered: Logistic Regression, Support Vector Machines (SVM), Decision Trees, and K-Nearest Neighbors.
+- Data Processing: Standardised data and split into training and testing sets.
+- Hyperparameter Tuning: Utilized GridSearchCV for tuning parameters and selecting the best model based on validation data.
+- Model Accuracy Results (F Scores): Logistic Regression 0.89, SVM 0.83, Decision Tree 0.72 and, KNN 0.94.
 
 
